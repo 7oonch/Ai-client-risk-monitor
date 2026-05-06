@@ -1,4 +1,5 @@
 # Ai-client-risk-monitor
+A machine learning proof-of-concept that classifies and prioritizes high-risk clients using simulated financial services data.
 AI-based client risk classification and prioritization system using machine learning
 This project simulates an AI-driven risk monitoring system used in financial services to identify and prioritize high-risk clients.
 

@@ -1,2 +1,18 @@
 # Ai-client-risk-monitor
 AI-based client risk classification and prioritization system using machine learning
+This project simulates an AI-driven risk monitoring system used in financial services to identify and prioritize high-risk clients.
+
+## Key Features
+- Machine learning classification (Random Forest)
+- Risk scoring based on behavioral and regulatory signals
+- Prioritized list of high-risk clients
+- Feature importance analysis for explainability
+
+## Tools Used
+- Python
+- scikit-learn
+- pandas
+- matplotlib
+
+## Outcome
+Achieved ~90% accuracy in predicting client risk in a simulated dataset, demonstrating how AI can support due diligence and compliance workflows.
